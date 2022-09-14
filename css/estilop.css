@@ -164,14 +164,13 @@ align-items: center;
 }
 
 .client{
-	
 background: #4B0082;162c3b 8A2BE2
 padding: 10px;
 text-align: center;
 }
 .client .imgBx{
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
 	margin-top: 40px;
@@ -218,6 +217,9 @@ text-align: center;
 	text-align: end;
 	font-weight: 500;
 	color: #3f8ffc;
+}
+.testimonials .container .contentBx h3 a{
+	text-decoration: none;
 }
 .contact{
 	padding: 100px;
@@ -291,6 +293,7 @@ align-items: center;
 }
 .footer ul li{
 	list-style: none;
+	text-decoration: none;
 }
 .footer ul li a{
 	text-decoration: none;

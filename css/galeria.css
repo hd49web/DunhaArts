@@ -19,6 +19,7 @@ section ul{
 	align-items: center;
 	flex-wrap: wrap;
 	margin-bottom: 20px;
+
 }
 
 section ul li{
@@ -28,6 +29,7 @@ section ul li{
 	margin: 5px;
 	letter-spacing: 1px;
 	cursor: pointer;
+	text-decoration: none;
 }
 section ul li.active{
 	background: #03a9f4;
